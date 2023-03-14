@@ -1,0 +1,113 @@
+commit cbf2647f135625dd67edc835c6b613457ba570a7
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 18:15:42 2023 +0200
+
+    file1 poistettu ja file2 uudelleen nimetty
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b316f4b7ef73ffe668c9146995bc56692b1f7f52
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 17:59:15 2023 +0200
+
+    file1,2,3 luotu
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit c22533d54e2cea2ef118adf8a29742302fa4924c
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 16:12:20 2023 +0200
+
+    eka ja kolmas teksti muutoksia
+
+ eka.txt    | 11 ++++++++---
+ kolmas.txt |  8 ++++++++
+ 2 files changed, 16 insertions(+), 3 deletions(-)
+
+commit 807e900b5031b5fd2b541415ba108be8f9596f16
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 16:01:49 2023 +0200
+
+    tiedosto.txt nimi vaihdettu eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 976761b5cac22cfea1a351994487344a8e86dec1
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 15:56:36 2023 +0200
+
+    toinen.txt poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 5bef6819563bbbf1fc4fcd42680f6ef8f516ba85
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 15:30:23 2023 +0200
+
+    tiedosto.txt tektiä poistettu ja lisätty
+
+ tiedosto.txt | 7 +++++--
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+
+commit 32ace9f701a3bc9d92eb4cbf3ac33a0e529da10e
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 15:26:49 2023 +0200
+
+    tiedosto.txt tekstiä lisätty
+
+ tiedosto.txt | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit 1e7bdc644e36c1783a5b87d13946d831fc706fbe
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 14:37:20 2023 +0200
+
+    suff hakemisto luotu
+
+ stuff/staffia.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit b86a830b26bbc0c1d452d58b31251079b9f072dc
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 14:33:26 2023 +0200
+
+    toinen ja kolmas muokattu
+
+ kolmas.txt | 2 ++
+ toinen.txt | 1 +
+ 2 files changed, 3 insertions(+)
+
+commit 2d715a002d46225d7e1bc507df452fa7cb79405f
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 14:30:09 2023 +0200
+
+    kolmas luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 205db1a34d96e9b5c6d92b65780de136f6941769
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 14:17:16 2023 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 344327391be7543c0ef0e8d28053cdbcaf097393
+Author: Lauri Huldin <127834326+LHuldin@users.noreply.github.com>
+Date:   Tue Mar 14 14:12:46 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
