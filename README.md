@@ -2,6 +2,8 @@
 
 ### Harjoitustyö
 
+[vaatimusmäärittely](https://github.com/LHuldin/ot-harjoitustyo/blob/main/dokumentaatio/vaatimusmaarittely.md)
+
 ### Tehtävät
 
 ##### Viikko1
