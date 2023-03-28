@@ -4,6 +4,8 @@
 
 [vaatimusmäärittely](https://github.com/LHuldin/ot-harjoitustyo/blob/main/dokumentaatio/vaatimusmaarittely.md)
 
+[tuntikirjanpito](https://github.com/LHuldin/ot-harjoitustyo/blob/main/dokumentaatio/tuntikirjanpito.md)
+
 ### Tehtävät
 
 ##### Viikko1
@@ -13,7 +15,9 @@
 [komentorivi.txt](https://github.com/LHuldin/ot-harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)
 
 
-##### Viikko2  
+##### Viikko2
 
+- vain laskaritehtävät 1-5 tehty
+  
 
 ##### Viikko3

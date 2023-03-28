@@ -13,7 +13,7 @@ Ainakin aluksi vain yksi käyttäjärooli
 
 ## Perusversion toiminnallisuus
 
-- Ttekstikäyttöliittymä
+- Tekstikäyttöliittymä
 
 - Tekstikäyttöliittymän rajoituksista johtuen japanilaisista ja korealaisista sanoista vain translitteroitu aakkosilla esitettävä muoto
 
