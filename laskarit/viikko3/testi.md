@@ -1,6 +1,6 @@
 ```mermaid
  classDiagram
-      Todo "*" --> "1" User
+      Todo "*" -- "1" User
       class User{
           username
           password
