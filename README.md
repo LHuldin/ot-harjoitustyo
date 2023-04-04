@@ -22,4 +22,4 @@
 
 ##### Viikko3
 
-- tällä viikolla en kerennyt kurssin tehtäviin paneutumaan, toivottavasti kurssin suorittaminen on vielä mahdollista vaikka tämä viikko jäikin välistä. Jatkossa vastaavia aikataulutus ongelmia kurssin suorittamiseksi ei pitäisi tulla.
+- tällä viikolla en kerennyt kurssin tehtäviin paneutumaan, eikä harjoitustyö ole edennyt viime viikon jälkeen, toivottavasti kurssin suorittaminen on kuitenkin vielä mahdollista vaikka tämä viikko jäikin välistä. Jatkossa vastaavia aikataulutus ongelmia kurssin suorittamiseksi ei pitäisi tulla.
