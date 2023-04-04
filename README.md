@@ -21,3 +21,5 @@
   
 
 ##### Viikko3
+
+- tällä viikolla en kerennyt kurssin tehtäviin paneutumaan, toivottavasti kurssin suorittaminen on vielä mahdollista vaikka tämä viikko jäikin välistä
